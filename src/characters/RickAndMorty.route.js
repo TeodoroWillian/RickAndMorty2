@@ -1,5 +1,5 @@
 const route = require("express").Router();
-const controllerCharacters = require("../controllers/rickAndMorty.controller");
+const controllerCharacters = require("../characters/rickAndMorty.controller");
 const {
   validId,
   validObjectBody,
