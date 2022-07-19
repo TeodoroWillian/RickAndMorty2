@@ -1,7 +1,7 @@
 {
-  "name": "api-twitterclone",
+  "name": "api-rickAndMorty",
   "version": "1.0.0",
-  "description": "repositório para projeto clone twitter da Blue",
+  "description": "repositório para projeto Rick And morty da Blue",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TeodoroWillian/api-twitterclone.git"
+    "url": "git+https://github.com/TeodoroWillian/RickAndMorty2"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TeodoroWillian/api-twitterclone/issues"
+    "url": "https://github.com/TeodoroWillian/RickAndMorty2/issues"
   },
-  "homepage": "https://github.com/TeodoroWillian/api-twitterclone#readme",
+  "homepage": "https://github.com/TeodoroWillian/RickAndMorty2#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
